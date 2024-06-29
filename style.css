@@ -1,0 +1,70 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    
+    
+}
+h1{
+    background-color: #383838;
+    font-style: italic;
+    font-weight: 800;
+    font-size: 18px;
+    text-align: center;
+    color: #000;
+    border-radius: 0px;
+    
+    
+}
+p{
+   font-family: var(--font-family);
+font-style: italic;
+font-weight: 800;
+font-size: 18px;
+text-align: center;
+color: #000; 
+}
+main{
+    text-align: center;
+    
+   
+    
+    
+   
+
+}
+h2{
+    font-family: var(--font-family);
+font-style: italic;
+font-weight: 800;
+font-size: 64px;
+text-align: center;
+color: #000;
+
+}
+footer{
+    width: 2634px;
+    height: 220px;
+    background: #984949;
+}
+nav{
+    border-radius: 0px;
+    background-color: greenyellow;
+    height: 20px;
+    
+    
+}
+.kartinka{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+    
+}
+.kartonka{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+
